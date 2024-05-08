@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hoangnorpscripter/chiyeuminthu/main/keysystem.lua"))()
+-- waiting for check key
+wait(5)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hoangnorpscripter/scriptbykhanh/main/Choosehubchiyeuminhthuw.lua"))()
